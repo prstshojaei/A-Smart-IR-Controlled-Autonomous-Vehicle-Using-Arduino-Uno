@@ -1,6 +1,7 @@
 # A-Smart-IR-Controlled-Autonomous-Vehicle-Using-Arduino-Uno
 
-This project was developed as part of a coursework project at the **University of Northampton (UK)**.  
+This project was developed as the **final project** of the **Modern Computer Architecture** course at the **University of Northampton**.
+
 It implements a small-scale vehicle that operates in **two different modes**: manual control and autonomous navigation.
 
 ---
